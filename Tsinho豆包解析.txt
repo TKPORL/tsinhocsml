@@ -1,0 +1,10 @@
+{
+  "version": "1.0.2",
+  "forceUpdate": true,
+  "updateUrl": "https://tkporl.github.io/",
+  "changelog": [
+    " Tsinho强制更新指令"
+    "1. 修复了一些功能",
+    "2. 优化了部分界面显示效果",
+  ]
+}
